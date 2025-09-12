@@ -1,5 +1,6 @@
-# auto-dealership-Management
+# Auto Dealership Management
 
- ->up: 3 .sql x 1 .md(upadte)
-bench: OSqlDev
-fucntioningVersio==1
+- **Up**: 3 `.sql` files × 1 `.md` (update non-classical)
+- **Bench**: OSqlDev
+- **Functioning Version**: 1 ✅ Done
+- **Readme Cleanup**
